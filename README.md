@@ -1,6 +1,6 @@
-:sunglasses::sunglasses::sunglasses:Hello You:sunglasses::sunglasses::sunglasses:
+:sunglasses:Hello ,
 
-I am Joshua Churgin a :sparkles: new developer :sparkles: in the field.
+I am Joshua Churgin a :sparkles: new developer :sparkles: in the field with lots of motivation to learn and develop myself in the development field.
 
 I am a Junior Full-stack Developer Learning and Developing open for work and eager for new opportunities!
 
@@ -16,7 +16,7 @@ here are some of the languages I touched a bit and am learning and working with 
 <img align="left" alt="java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 <img align="left" alt="java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
 <img align="left" alt="java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-                    
+[![My Skills](https://skills.thijs.gg/icons?i=ts)](https://skills.thijs.gg)
 
 <!--
 **JChurgin/JChurgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
