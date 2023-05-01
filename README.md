@@ -16,7 +16,7 @@ here are some of the languages I touched a bit and am learning and working with 
 <img align="left" alt="java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 <img align="left" alt="java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
 <img align="left" alt="java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-[![My Skills](https://skills.thijs.gg/icons?i=ts)](https://skills.thijs.gg)
+<img align="left" alt="java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
 <!--
 **JChurgin/JChurgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
