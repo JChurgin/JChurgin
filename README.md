@@ -2,7 +2,7 @@
 
 I am Joshua Churgin a :sparkles: new developer :sparkles: in the field with lots of motivation to learn and develop myself in the development field.
 
-I am a Junior Full-stack Developer Learning and Developing open for work and eager for new opportunities!
+I am a Full-stack Developer Learning and Developing open for work and eager for new opportunities!
 
 ---
 
