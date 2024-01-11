@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at [https://jchurgin.github.io/vite-project-portfolio/](https://jchurgin.github.io/vite-project-portfolio/)<br><br>
 - 💬 Ask me about **React**<br><br>
 - 📫 How to reach me **churginjoshua@gmail.com**<br><br>
-- 📄 Know about my experiences [https://docs.google.com/document/d/1T1tvR8KhDKWQSXcnI3kF9oZy_LE3wdJ-KNc1_AA9I2E/edit?usp=sharing]<br>CV<br>
+- 📄 Know about my experiences [CV](https://docs.google.com/document/d/1T1tvR8KhDKWQSXcnI3kF9oZy_LE3wdJ-KNc1_AA9I2E/edit?usp=sharing)
 - ⚡ Fun fact **I like video games**
 
 - ![image](https://www.codewars.com/users/JChurgin/badges/small)
