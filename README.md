@@ -1,5 +1,13 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [yesnor](no link currently)<br><br>- 🌱 I’m currently learning **MERN**<br><br>- 👯 I’m looking to collaborate on **in open source**<br><br>- 🤝 I’m looking for help with **expanding my skill set**<br><br>- 👨‍💻 All of my projects are available at [https://jchurgin.github.io/vite-project-portfolio/](https://jchurgin.github.io/vite-project-portfolio/)<br><br>- 💬 Ask me about **React**<br><br>- 📫 How to reach me **churginjoshua@gmail.com**<br><br>- 📄 Know about my experiences [https://docs.google.com/document/d/1T1tvR8KhDKWQSXcnI3kF9oZy_LE3wdJ-KNc1_AA9I2E/edit?usp=sharing](https://docs.google.com/document/d/1T1tvR8KhDKWQSXcnI3kF9oZy_LE3wdJ-KNc1_AA9I2E/edit?usp=sharing)<br><br>- ⚡ Fun fact **I like video games**
+- 🔭 I’m currently working on [yesnor](no link currently)<br><br>
+- 🌱 I’m currently learning **MERN**<br><br>
+- 👯 I’m looking to collaborate on **in open source**<br><br>
+- 🤝 I’m looking for help with **expanding my skill set**<br><br>
+- 👨‍💻 All of my projects are available at [https://jchurgin.github.io/vite-project-portfolio/](https://jchurgin.github.io/vite-project-portfolio/)<br><br>
+- 💬 Ask me about **React**<br><br>
+- 📫 How to reach me **churginjoshua@gmail.com**<br><br>
+- 📄 Know about my experiences [https://docs.google.com/document/d/1T1tvR8KhDKWQSXcnI3kF9oZy_LE3wdJ-KNc1_AA9I2E/edit?usp=sharing](https://docs.google.com/document/d/1T1tvR8KhDKWQSXcnI3kF9oZy_LE3wdJ-KNc1_AA9I2E/edit?usp=sharing)<br><br>
+- ⚡ Fun fact **I like video games**
 
 - ![image](https://www.codewars.com/users/JChurgin/badges/small)
 
