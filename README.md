@@ -16,11 +16,9 @@
 
 - 👨‍💻 All of my projects are available at [https://jchurgin.github.io/vite-project-portfolio/](https://jchurgin.github.io/vite-project-portfolio/)
 
-- 📝 I regularly write articles on [I do not yet](I do not yet)
-
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **joshuaschurgin@gmail.com**
+- 📫 How to reach me **churginjoshua@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1T1tvR8KhDKWQSXcnI3kF9oZy_LE3wdJ-KNc1_AA9I2E/edit?usp=sharing](https://docs.google.com/document/d/1T1tvR8KhDKWQSXcnI3kF9oZy_LE3wdJ-KNc1_AA9I2E/edit?usp=sharing)
 
