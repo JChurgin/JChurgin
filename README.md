@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 I’m currently working on [yesnor](no link currently)<br><br>
-- 🌱 I’m currently learning **MERN**<br><br>
+- 🌱 I’m currently learning to be a better programer.<br><br>
 - 👯 I’m looking to collaborate on **in open source**<br><br>
 - 🤝 I’m looking for help with **expanding my skill set**<br><br>
 - 👨‍💻 All of my projects are available at (Not completed) [Portfolio](https://jchurgin.github.io/vite-project-portfolio/)<br><br>
